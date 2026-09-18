@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "brunei",
+  "name": "Brunei",
+  "code": "bn",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "brunei_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "brunei_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/brunei_texture.png",
+  "github_icon": "forge/brunei_icon.png",
+  "save_path": "zain_flags/forge"
+}

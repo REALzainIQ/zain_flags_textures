@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "panama",
+  "name": "Panama",
+  "code": "pa",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "panama_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "panama_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/panama_texture.png",
+  "github_icon": "fabric/panama_icon.png",
+  "save_path": "zain_flags/fabric"
+}

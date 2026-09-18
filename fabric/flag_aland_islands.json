@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "aland_islands",
+  "name": "Åland Islands",
+  "code": "ax",
+  "version": 1,
+  "aspect": 1.5311,
+  "texture": "aland_islands_texture.png",
+  "texture_size": [
+    128,
+    84
+  ],
+  "icon": "aland_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/aland_islands_texture.png",
+  "github_icon": "fabric/aland_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

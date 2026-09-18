@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "seychelles",
+  "name": "Seychelles",
+  "code": "sc",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "seychelles_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "seychelles_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/seychelles_texture.png",
+  "github_icon": "forge/seychelles_icon.png",
+  "save_path": "zain_flags/forge"
+}

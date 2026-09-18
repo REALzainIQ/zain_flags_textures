@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bosnia_and_herzegovina",
+  "name": "Bosnia and Herzegovina",
+  "code": "ba",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "bosnia_and_herzegovina_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "bosnia_and_herzegovina_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/bosnia_and_herzegovina_texture.png",
+  "github_icon": "forge/bosnia_and_herzegovina_icon.png",
+  "save_path": "zain_flags/forge"
+}

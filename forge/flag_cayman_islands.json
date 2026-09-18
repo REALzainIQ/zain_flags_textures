@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cayman_islands",
+  "name": "Cayman Islands",
+  "code": "ky",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "cayman_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "cayman_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/cayman_islands_texture.png",
+  "github_icon": "forge/cayman_islands_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "albania",
+  "name": "Albania",
+  "code": "al",
+  "version": 1,
+  "aspect": 1.400438,
+  "texture": "albania_texture.png",
+  "texture_size": [
+    128,
+    91
+  ],
+  "icon": "albania_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/albania_texture.png",
+  "github_icon": "forge/albania_icon.png",
+  "save_path": "zain_flags/forge"
+}

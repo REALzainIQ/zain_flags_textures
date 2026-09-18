@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "niger",
+  "name": "Niger",
+  "code": "ne",
+  "version": 1,
+  "aspect": 1.165756,
+  "texture": "niger_texture.png",
+  "texture_size": [
+    128,
+    110
+  ],
+  "icon": "niger_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/niger_texture.png",
+  "github_icon": "forge/niger_icon.png",
+  "save_path": "zain_flags/forge"
+}

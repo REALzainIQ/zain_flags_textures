@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "eswatini",
+  "name": "Eswatini (Swaziland)",
+  "code": "sz",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "eswatini_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "eswatini_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/eswatini_texture.png",
+  "github_icon": "fabric/eswatini_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "iceland",
+  "name": "Iceland",
+  "code": "is",
+  "version": 1,
+  "aspect": 1.388286,
+  "texture": "iceland_texture.png",
+  "texture_size": [
+    128,
+    92
+  ],
+  "icon": "iceland_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/iceland_texture.png",
+  "github_icon": "fabric/iceland_icon.png",
+  "save_path": "zain_flags/fabric"
+}

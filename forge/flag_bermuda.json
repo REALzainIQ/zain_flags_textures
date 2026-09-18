@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bermuda",
+  "name": "Bermuda",
+  "code": "bm",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "bermuda_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "bermuda_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/bermuda_texture.png",
+  "github_icon": "forge/bermuda_icon.png",
+  "save_path": "zain_flags/forge"
+}

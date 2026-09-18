@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "kazakhstan",
+  "name": "Kazakhstan",
+  "code": "kz",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "kazakhstan_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "kazakhstan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/kazakhstan_texture.png",
+  "github_icon": "forge/kazakhstan_icon.png",
+  "save_path": "zain_flags/forge"
+}

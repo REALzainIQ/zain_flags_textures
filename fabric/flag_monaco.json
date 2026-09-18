@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "monaco",
+  "name": "Monaco",
+  "code": "mc",
+  "version": 1,
+  "aspect": 1.25,
+  "texture": "monaco_texture.png",
+  "texture_size": [
+    128,
+    102
+  ],
+  "icon": "monaco_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/monaco_texture.png",
+  "github_icon": "fabric/monaco_icon.png",
+  "save_path": "zain_flags/fabric"
+}

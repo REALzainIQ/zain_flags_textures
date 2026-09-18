@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "kosovo",
+  "name": "Kosovo",
+  "code": "xk",
+  "version": 1,
+  "aspect": 1.400438,
+  "texture": "kosovo_texture.png",
+  "texture_size": [
+    128,
+    91
+  ],
+  "icon": "kosovo_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/kosovo_texture.png",
+  "github_icon": "forge/kosovo_icon.png",
+  "save_path": "zain_flags/forge"
+}

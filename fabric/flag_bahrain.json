@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bahrain",
+  "name": "Bahrain",
+  "code": "bh",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "bahrain_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "bahrain_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/bahrain_texture.png",
+  "github_icon": "fabric/bahrain_icon.png",
+  "save_path": "zain_flags/fabric"
+}

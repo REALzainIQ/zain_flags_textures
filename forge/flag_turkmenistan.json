@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "turkmenistan",
+  "name": "Turkmenistan",
+  "code": "tm",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "turkmenistan_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "turkmenistan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/turkmenistan_texture.png",
+  "github_icon": "forge/turkmenistan_icon.png",
+  "save_path": "zain_flags/forge"
+}

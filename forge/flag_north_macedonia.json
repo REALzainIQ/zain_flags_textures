@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "north_macedonia",
+  "name": "North Macedonia",
+  "code": "mk",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "north_macedonia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "north_macedonia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/north_macedonia_texture.png",
+  "github_icon": "forge/north_macedonia_icon.png",
+  "save_path": "zain_flags/forge"
+}

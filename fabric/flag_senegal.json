@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "senegal",
+  "name": "Senegal",
+  "code": "sn",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "senegal_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "senegal_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/senegal_texture.png",
+  "github_icon": "fabric/senegal_icon.png",
+  "save_path": "zain_flags/fabric"
+}

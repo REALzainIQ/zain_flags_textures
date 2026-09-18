@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "germany",
+  "name": "Germany",
+  "code": "de",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "germany_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "germany_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/germany_texture.png",
+  "github_icon": "fabric/germany_icon.png",
+  "save_path": "zain_flags/fabric"
+}

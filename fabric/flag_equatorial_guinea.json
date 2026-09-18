@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "equatorial_guinea",
+  "name": "Equatorial Guinea",
+  "code": "gq",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "equatorial_guinea_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "equatorial_guinea_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/equatorial_guinea_texture.png",
+  "github_icon": "fabric/equatorial_guinea_icon.png",
+  "save_path": "zain_flags/fabric"
+}

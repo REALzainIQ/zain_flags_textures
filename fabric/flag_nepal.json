@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "nepal",
+  "name": "Nepal",
+  "code": "np",
+  "version": 1,
+  "aspect": 0.820513,
+  "texture": "nepal_texture.png",
+  "texture_size": [
+    105,
+    128
+  ],
+  "icon": "nepal_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/nepal_texture.png",
+  "github_icon": "fabric/nepal_icon.png",
+  "save_path": "zain_flags/fabric"
+}

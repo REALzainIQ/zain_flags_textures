@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "caribbean_netherlands",
+  "name": "Caribbean Netherlands",
+  "code": "bq",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "caribbean_netherlands_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "caribbean_netherlands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/caribbean_netherlands_texture.png",
+  "github_icon": "fabric/caribbean_netherlands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

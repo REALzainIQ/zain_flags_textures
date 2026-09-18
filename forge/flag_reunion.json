@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "reunion",
+  "name": "Réunion",
+  "code": "re",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "reunion_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "reunion_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/reunion_texture.png",
+  "github_icon": "forge/reunion_icon.png",
+  "save_path": "zain_flags/forge"
+}

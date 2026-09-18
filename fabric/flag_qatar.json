@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "qatar",
+  "name": "Qatar",
+  "code": "qa",
+  "version": 1,
+  "aspect": 2.549801,
+  "texture": "qatar_texture.png",
+  "texture_size": [
+    128,
+    50
+  ],
+  "icon": "qatar_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/qatar_texture.png",
+  "github_icon": "fabric/qatar_icon.png",
+  "save_path": "zain_flags/fabric"
+}

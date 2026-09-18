@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "argentina",
+  "name": "Argentina",
+  "code": "ar",
+  "version": 1,
+  "aspect": 1.6,
+  "texture": "argentina_texture.png",
+  "texture_size": [
+    128,
+    80
+  ],
+  "icon": "argentina_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/argentina_texture.png",
+  "github_icon": "fabric/argentina_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "mali",
+  "name": "Mali",
+  "code": "ml",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "mali_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "mali_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/mali_texture.png",
+  "github_icon": "fabric/mali_icon.png",
+  "save_path": "zain_flags/fabric"
+}

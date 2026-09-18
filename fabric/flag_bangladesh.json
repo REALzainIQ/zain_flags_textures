@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bangladesh",
+  "name": "Bangladesh",
+  "code": "bd",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "bangladesh_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "bangladesh_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/bangladesh_texture.png",
+  "github_icon": "fabric/bangladesh_icon.png",
+  "save_path": "zain_flags/fabric"
+}

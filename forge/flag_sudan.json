@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "sudan",
+  "name": "Sudan",
+  "code": "sd",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "sudan_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "sudan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/sudan_texture.png",
+  "github_icon": "forge/sudan_icon.png",
+  "save_path": "zain_flags/forge"
+}

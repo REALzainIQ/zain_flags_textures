@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "dr_congo",
+  "name": "DR Congo",
+  "code": "cd",
+  "version": 1,
+  "aspect": 1.333333,
+  "texture": "dr_congo_texture.png",
+  "texture_size": [
+    128,
+    96
+  ],
+  "icon": "dr_congo_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/dr_congo_texture.png",
+  "github_icon": "fabric/dr_congo_icon.png",
+  "save_path": "zain_flags/fabric"
+}

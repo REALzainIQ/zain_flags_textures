@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "american_samoa",
+  "name": "American Samoa",
+  "code": "as",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "american_samoa_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "american_samoa_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/american_samoa_texture.png",
+  "github_icon": "forge/american_samoa_icon.png",
+  "save_path": "zain_flags/forge"
+}

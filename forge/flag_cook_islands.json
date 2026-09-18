@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cook_islands",
+  "name": "Cook Islands",
+  "code": "ck",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "cook_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "cook_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/cook_islands_texture.png",
+  "github_icon": "forge/cook_islands_icon.png",
+  "save_path": "zain_flags/forge"
+}

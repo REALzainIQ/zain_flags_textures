@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "uk",
+  "name": "United Kingdom",
+  "code": "gb",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "uk_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "uk_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/uk_texture.png",
+  "github_icon": "forge/uk_icon.png",
+  "save_path": "zain_flags/forge"
+}

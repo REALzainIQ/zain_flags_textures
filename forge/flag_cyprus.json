@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cyprus",
+  "name": "Cyprus",
+  "code": "cy",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "cyprus_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "cyprus_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/cyprus_texture.png",
+  "github_icon": "forge/cyprus_icon.png",
+  "save_path": "zain_flags/forge"
+}

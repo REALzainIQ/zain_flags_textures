@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "costa_rica",
+  "name": "Costa Rica",
+  "code": "cr",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "costa_rica_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "costa_rica_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/costa_rica_texture.png",
+  "github_icon": "forge/costa_rica_icon.png",
+  "save_path": "zain_flags/forge"
+}

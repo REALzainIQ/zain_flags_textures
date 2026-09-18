@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "anguilla",
+  "name": "Anguilla",
+  "code": "ai",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "anguilla_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "anguilla_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/anguilla_texture.png",
+  "github_icon": "fabric/anguilla_icon.png",
+  "save_path": "zain_flags/fabric"
+}

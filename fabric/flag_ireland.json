@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "ireland",
+  "name": "Ireland",
+  "code": "ie",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "ireland_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "ireland_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/ireland_texture.png",
+  "github_icon": "fabric/ireland_icon.png",
+  "save_path": "zain_flags/fabric"
+}

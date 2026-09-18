@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "faroe_islands",
+  "name": "Faroe Islands",
+  "code": "fo",
+  "version": 1,
+  "aspect": 1.376344,
+  "texture": "faroe_islands_texture.png",
+  "texture_size": [
+    128,
+    93
+  ],
+  "icon": "faroe_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/faroe_islands_texture.png",
+  "github_icon": "forge/faroe_islands_icon.png",
+  "save_path": "zain_flags/forge"
+}

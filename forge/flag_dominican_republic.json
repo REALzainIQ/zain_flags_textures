@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "dominican_republic",
+  "name": "Dominican Republic",
+  "code": "do",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "dominican_republic_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "dominican_republic_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/dominican_republic_texture.png",
+  "github_icon": "forge/dominican_republic_icon.png",
+  "save_path": "zain_flags/forge"
+}

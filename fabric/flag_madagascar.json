@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "madagascar",
+  "name": "Madagascar",
+  "code": "mg",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "madagascar_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "madagascar_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/madagascar_texture.png",
+  "github_icon": "fabric/madagascar_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cambodia",
+  "name": "Cambodia",
+  "code": "kh",
+  "version": 1,
+  "aspect": 1.560976,
+  "texture": "cambodia_texture.png",
+  "texture_size": [
+    128,
+    82
+  ],
+  "icon": "cambodia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/cambodia_texture.png",
+  "github_icon": "forge/cambodia_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cuba",
+  "name": "Cuba",
+  "code": "cu",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "cuba_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "cuba_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/cuba_texture.png",
+  "github_icon": "fabric/cuba_icon.png",
+  "save_path": "zain_flags/fabric"
+}

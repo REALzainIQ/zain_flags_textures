@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "kiribati",
+  "name": "Kiribati",
+  "code": "ki",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "kiribati_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "kiribati_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/kiribati_texture.png",
+  "github_icon": "fabric/kiribati_icon.png",
+  "save_path": "zain_flags/fabric"
+}

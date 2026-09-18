@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "brazil",
+  "name": "Brazil",
+  "code": "br",
+  "version": 1,
+  "aspect": 1.428571,
+  "texture": "brazil_texture.png",
+  "texture_size": [
+    128,
+    90
+  ],
+  "icon": "brazil_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/brazil_texture.png",
+  "github_icon": "fabric/brazil_icon.png",
+  "save_path": "zain_flags/fabric"
+}

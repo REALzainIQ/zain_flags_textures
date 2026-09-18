@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "south_sudan",
+  "name": "South Sudan",
+  "code": "ss",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "south_sudan_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "south_sudan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/south_sudan_texture.png",
+  "github_icon": "fabric/south_sudan_icon.png",
+  "save_path": "zain_flags/fabric"
+}

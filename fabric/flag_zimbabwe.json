@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "zimbabwe",
+  "name": "Zimbabwe",
+  "code": "zw",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "zimbabwe_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "zimbabwe_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/zimbabwe_texture.png",
+  "github_icon": "fabric/zimbabwe_icon.png",
+  "save_path": "zain_flags/fabric"
+}

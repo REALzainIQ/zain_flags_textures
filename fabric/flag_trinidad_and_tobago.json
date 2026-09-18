@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "trinidad_and_tobago",
+  "name": "Trinidad and Tobago",
+  "code": "tt",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "trinidad_and_tobago_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "trinidad_and_tobago_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/trinidad_and_tobago_texture.png",
+  "github_icon": "fabric/trinidad_and_tobago_icon.png",
+  "save_path": "zain_flags/fabric"
+}

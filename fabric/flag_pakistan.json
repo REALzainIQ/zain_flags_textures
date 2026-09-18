@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "pakistan",
+  "name": "Pakistan",
+  "code": "pk",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "pakistan_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "pakistan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/pakistan_texture.png",
+  "github_icon": "fabric/pakistan_icon.png",
+  "save_path": "zain_flags/fabric"
+}

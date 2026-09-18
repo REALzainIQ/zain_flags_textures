@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "morocco",
+  "name": "Morocco",
+  "code": "ma",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "morocco_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "morocco_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/morocco_texture.png",
+  "github_icon": "fabric/morocco_icon.png",
+  "save_path": "zain_flags/fabric"
+}

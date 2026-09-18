@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "oman",
+  "name": "Oman",
+  "code": "om",
+  "version": 1,
+  "aspect": 1.748634,
+  "texture": "oman_texture.png",
+  "texture_size": [
+    128,
+    73
+  ],
+  "icon": "oman_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/oman_texture.png",
+  "github_icon": "fabric/oman_icon.png",
+  "save_path": "zain_flags/fabric"
+}

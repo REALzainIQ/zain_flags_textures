@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "ethiopia",
+  "name": "Ethiopia",
+  "code": "et",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "ethiopia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "ethiopia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/ethiopia_texture.png",
+  "github_icon": "fabric/ethiopia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

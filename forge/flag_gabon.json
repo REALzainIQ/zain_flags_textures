@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "gabon",
+  "name": "Gabon",
+  "code": "ga",
+  "version": 1,
+  "aspect": 1.333333,
+  "texture": "gabon_texture.png",
+  "texture_size": [
+    128,
+    96
+  ],
+  "icon": "gabon_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/gabon_texture.png",
+  "github_icon": "forge/gabon_icon.png",
+  "save_path": "zain_flags/forge"
+}

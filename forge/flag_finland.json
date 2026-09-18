@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "finland",
+  "name": "Finland",
+  "code": "fi",
+  "version": 1,
+  "aspect": 1.636829,
+  "texture": "finland_texture.png",
+  "texture_size": [
+    128,
+    78
+  ],
+  "icon": "finland_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/finland_texture.png",
+  "github_icon": "forge/finland_icon.png",
+  "save_path": "zain_flags/forge"
+}

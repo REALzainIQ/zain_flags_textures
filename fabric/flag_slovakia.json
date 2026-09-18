@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "slovakia",
+  "name": "Slovakia",
+  "code": "sk",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "slovakia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "slovakia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/slovakia_texture.png",
+  "github_icon": "fabric/slovakia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

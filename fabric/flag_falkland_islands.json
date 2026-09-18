@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "falkland_islands",
+  "name": "Falkland Islands",
+  "code": "fk",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "falkland_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "falkland_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/falkland_islands_texture.png",
+  "github_icon": "fabric/falkland_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

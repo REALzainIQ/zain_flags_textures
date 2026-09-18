@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "vietnam",
+  "name": "Vietnam",
+  "code": "vn",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "vietnam_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "vietnam_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/vietnam_texture.png",
+  "github_icon": "forge/vietnam_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saudi_arabia",
+  "name": "Saudi Arabia",
+  "code": "sa",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "saudi_arabia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "saudi_arabia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/saudi_arabia_texture.png",
+  "github_icon": "fabric/saudi_arabia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

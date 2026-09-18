@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "antigua_and_barbuda",
+  "name": "Antigua and Barbuda",
+  "code": "ag",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "antigua_and_barbuda_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "antigua_and_barbuda_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/antigua_and_barbuda_texture.png",
+  "github_icon": "forge/antigua_and_barbuda_icon.png",
+  "save_path": "zain_flags/forge"
+}

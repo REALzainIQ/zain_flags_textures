@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "honduras",
+  "name": "Honduras",
+  "code": "hn",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "honduras_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "honduras_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/honduras_texture.png",
+  "github_icon": "fabric/honduras_icon.png",
+  "save_path": "zain_flags/fabric"
+}

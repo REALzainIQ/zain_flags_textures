@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "comoros",
+  "name": "Comoros",
+  "code": "km",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "comoros_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "comoros_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/comoros_texture.png",
+  "github_icon": "fabric/comoros_icon.png",
+  "save_path": "zain_flags/fabric"
+}

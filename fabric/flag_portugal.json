@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "portugal",
+  "name": "Portugal",
+  "code": "pt",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "portugal_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "portugal_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/portugal_texture.png",
+  "github_icon": "fabric/portugal_icon.png",
+  "save_path": "zain_flags/fabric"
+}

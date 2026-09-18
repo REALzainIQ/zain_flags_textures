@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "algeria",
+  "name": "Algeria",
+  "code": "dz",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "algeria_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "algeria_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/algeria_texture.png",
+  "github_icon": "fabric/algeria_icon.png",
+  "save_path": "zain_flags/fabric"
+}

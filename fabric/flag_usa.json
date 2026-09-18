@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "usa",
+  "name": "United States",
+  "code": "us",
+  "version": 1,
+  "aspect": 1.89911,
+  "texture": "usa_texture.png",
+  "texture_size": [
+    128,
+    67
+  ],
+  "icon": "usa_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/usa_texture.png",
+  "github_icon": "fabric/usa_icon.png",
+  "save_path": "zain_flags/fabric"
+}

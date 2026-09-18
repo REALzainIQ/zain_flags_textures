@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "french_guiana",
+  "name": "French Guiana",
+  "code": "gf",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "french_guiana_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "french_guiana_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/french_guiana_texture.png",
+  "github_icon": "fabric/french_guiana_icon.png",
+  "save_path": "zain_flags/fabric"
+}

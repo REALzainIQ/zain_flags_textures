@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "zambia",
+  "name": "Zambia",
+  "code": "zm",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "zambia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "zambia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/zambia_texture.png",
+  "github_icon": "fabric/zambia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

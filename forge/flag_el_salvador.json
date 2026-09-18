@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "el_salvador",
+  "name": "El Salvador",
+  "code": "sv",
+  "version": 1,
+  "aspect": 1.772853,
+  "texture": "el_salvador_texture.png",
+  "texture_size": [
+    128,
+    72
+  ],
+  "icon": "el_salvador_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/el_salvador_texture.png",
+  "github_icon": "forge/el_salvador_icon.png",
+  "save_path": "zain_flags/forge"
+}

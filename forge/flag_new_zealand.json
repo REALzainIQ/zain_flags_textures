@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "new_zealand",
+  "name": "New Zealand",
+  "code": "nz",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "new_zealand_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "new_zealand_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/new_zealand_texture.png",
+  "github_icon": "forge/new_zealand_icon.png",
+  "save_path": "zain_flags/forge"
+}

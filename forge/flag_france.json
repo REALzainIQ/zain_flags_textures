@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "france",
+  "name": "France",
+  "code": "fr",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "france_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "france_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/france_texture.png",
+  "github_icon": "forge/france_icon.png",
+  "save_path": "zain_flags/forge"
+}

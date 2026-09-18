@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "belgium",
+  "name": "Belgium",
+  "code": "be",
+  "version": 1,
+  "aspect": 1.153153,
+  "texture": "belgium_texture.png",
+  "texture_size": [
+    128,
+    111
+  ],
+  "icon": "belgium_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/belgium_texture.png",
+  "github_icon": "fabric/belgium_icon.png",
+  "save_path": "zain_flags/fabric"
+}

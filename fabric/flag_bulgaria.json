@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bulgaria",
+  "name": "Bulgaria",
+  "code": "bg",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "bulgaria_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "bulgaria_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/bulgaria_texture.png",
+  "github_icon": "fabric/bulgaria_icon.png",
+  "save_path": "zain_flags/fabric"
+}

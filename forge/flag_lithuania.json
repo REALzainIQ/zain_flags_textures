@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "lithuania",
+  "name": "Lithuania",
+  "code": "lt",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "lithuania_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "lithuania_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/lithuania_texture.png",
+  "github_icon": "forge/lithuania_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_helena_ascension_and_tristan_da_cunha",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "code": "sh",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "saint_helena_ascension_and_tristan_da_cunha_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "saint_helena_ascension_and_tristan_da_cunha_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/saint_helena_ascension_and_tristan_da_cunha_texture.png",
+  "github_icon": "fabric/saint_helena_ascension_and_tristan_da_cunha_icon.png",
+  "save_path": "zain_flags/fabric"
+}

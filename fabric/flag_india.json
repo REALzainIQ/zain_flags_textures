@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "india",
+  "name": "India",
+  "code": "in",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "india_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "india_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/india_texture.png",
+  "github_icon": "fabric/india_icon.png",
+  "save_path": "zain_flags/fabric"
+}

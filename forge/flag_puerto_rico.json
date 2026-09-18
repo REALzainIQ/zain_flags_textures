@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "puerto_rico",
+  "name": "Puerto Rico",
+  "code": "pr",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "puerto_rico_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "puerto_rico_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/puerto_rico_texture.png",
+  "github_icon": "forge/puerto_rico_icon.png",
+  "save_path": "zain_flags/forge"
+}

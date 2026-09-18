@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "armenia",
+  "name": "Armenia",
+  "code": "am",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "armenia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "armenia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/armenia_texture.png",
+  "github_icon": "forge/armenia_icon.png",
+  "save_path": "zain_flags/forge"
+}

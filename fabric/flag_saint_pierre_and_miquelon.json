@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_pierre_and_miquelon",
+  "name": "Saint Pierre and Miquelon",
+  "code": "pm",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "saint_pierre_and_miquelon_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "saint_pierre_and_miquelon_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/saint_pierre_and_miquelon_texture.png",
+  "github_icon": "fabric/saint_pierre_and_miquelon_icon.png",
+  "save_path": "zain_flags/fabric"
+}

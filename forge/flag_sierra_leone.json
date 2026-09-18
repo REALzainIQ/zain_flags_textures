@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "sierra_leone",
+  "name": "Sierra Leone",
+  "code": "sl",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "sierra_leone_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "sierra_leone_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/sierra_leone_texture.png",
+  "github_icon": "forge/sierra_leone_icon.png",
+  "save_path": "zain_flags/forge"
+}

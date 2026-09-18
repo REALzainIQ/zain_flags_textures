@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "malawi",
+  "name": "Malawi",
+  "code": "mw",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "malawi_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "malawi_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/malawi_texture.png",
+  "github_icon": "fabric/malawi_icon.png",
+  "save_path": "zain_flags/fabric"
+}

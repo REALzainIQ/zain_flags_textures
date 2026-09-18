@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "libya",
+  "name": "Libya",
+  "code": "ly",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "libya_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "libya_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/libya_texture.png",
+  "github_icon": "forge/libya_icon.png",
+  "save_path": "zain_flags/forge"
+}

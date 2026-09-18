@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "tajikistan",
+  "name": "Tajikistan",
+  "code": "tj",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "tajikistan_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "tajikistan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/tajikistan_texture.png",
+  "github_icon": "fabric/tajikistan_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "guinea_bissau",
+  "name": "Guinea-Bissau",
+  "code": "gw",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "guinea_bissau_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "guinea_bissau_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/guinea_bissau_texture.png",
+  "github_icon": "forge/guinea_bissau_icon.png",
+  "save_path": "zain_flags/forge"
+}

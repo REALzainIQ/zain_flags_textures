@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "togo",
+  "name": "Togo",
+  "code": "tg",
+  "version": 1,
+  "aspect": 1.616162,
+  "texture": "togo_texture.png",
+  "texture_size": [
+    128,
+    79
+  ],
+  "icon": "togo_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/togo_texture.png",
+  "github_icon": "forge/togo_icon.png",
+  "save_path": "zain_flags/forge"
+}

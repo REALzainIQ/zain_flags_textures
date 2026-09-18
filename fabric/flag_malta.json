@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "malta",
+  "name": "Malta",
+  "code": "mt",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "malta_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "malta_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/malta_texture.png",
+  "github_icon": "fabric/malta_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "united_states_virgin_islands",
+  "name": "United States Virgin Islands",
+  "code": "vi",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "united_states_virgin_islands_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "united_states_virgin_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/united_states_virgin_islands_texture.png",
+  "github_icon": "forge/united_states_virgin_islands_icon.png",
+  "save_path": "zain_flags/forge"
+}

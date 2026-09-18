@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "poland",
+  "name": "Poland",
+  "code": "pl",
+  "version": 1,
+  "aspect": 1.6,
+  "texture": "poland_texture.png",
+  "texture_size": [
+    128,
+    80
+  ],
+  "icon": "poland_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/poland_texture.png",
+  "github_icon": "forge/poland_icon.png",
+  "save_path": "zain_flags/forge"
+}

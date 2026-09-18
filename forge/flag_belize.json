@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "belize",
+  "name": "Belize",
+  "code": "bz",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "belize_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "belize_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/belize_texture.png",
+  "github_icon": "forge/belize_icon.png",
+  "save_path": "zain_flags/forge"
+}

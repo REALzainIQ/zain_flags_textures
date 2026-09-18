@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "east_timor",
+  "name": "Timor-Leste",
+  "code": "tl",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "east_timor_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "east_timor_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/east_timor_texture.png",
+  "github_icon": "fabric/east_timor_icon.png",
+  "save_path": "zain_flags/fabric"
+}

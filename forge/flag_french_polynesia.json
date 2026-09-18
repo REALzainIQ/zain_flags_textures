@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "french_polynesia",
+  "name": "French Polynesia",
+  "code": "pf",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "french_polynesia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "french_polynesia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/french_polynesia_texture.png",
+  "github_icon": "forge/french_polynesia_icon.png",
+  "save_path": "zain_flags/forge"
+}

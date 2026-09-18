@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "barbados",
+  "name": "Barbados",
+  "code": "bb",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "barbados_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "barbados_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/barbados_texture.png",
+  "github_icon": "fabric/barbados_icon.png",
+  "save_path": "zain_flags/fabric"
+}

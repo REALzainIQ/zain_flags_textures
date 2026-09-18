@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bahamas",
+  "name": "Bahamas",
+  "code": "bs",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "bahamas_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "bahamas_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/bahamas_texture.png",
+  "github_icon": "forge/bahamas_icon.png",
+  "save_path": "zain_flags/forge"
+}

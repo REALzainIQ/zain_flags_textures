@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_barthelemy",
+  "name": "Saint Barthélemy",
+  "code": "bl",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "saint_barthelemy_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "saint_barthelemy_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/saint_barthelemy_texture.png",
+  "github_icon": "fabric/saint_barthelemy_icon.png",
+  "save_path": "zain_flags/fabric"
+}

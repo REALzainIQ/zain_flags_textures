@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "liechtenstein",
+  "name": "Liechtenstein",
+  "code": "li",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "liechtenstein_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "liechtenstein_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/liechtenstein_texture.png",
+  "github_icon": "fabric/liechtenstein_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "guyana",
+  "name": "Guyana",
+  "code": "gy",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "guyana_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "guyana_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/guyana_texture.png",
+  "github_icon": "fabric/guyana_icon.png",
+  "save_path": "zain_flags/fabric"
+}

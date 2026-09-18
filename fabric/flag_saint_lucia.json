@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_lucia",
+  "name": "Saint Lucia",
+  "code": "lc",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "saint_lucia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "saint_lucia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/saint_lucia_texture.png",
+  "github_icon": "fabric/saint_lucia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

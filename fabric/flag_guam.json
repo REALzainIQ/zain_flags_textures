@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "guam",
+  "name": "Guam",
+  "code": "gu",
+  "version": 1,
+  "aspect": 1.865889,
+  "texture": "guam_texture.png",
+  "texture_size": [
+    128,
+    69
+  ],
+  "icon": "guam_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/guam_texture.png",
+  "github_icon": "fabric/guam_icon.png",
+  "save_path": "zain_flags/fabric"
+}

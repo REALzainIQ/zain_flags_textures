@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "gambia",
+  "name": "Gambia",
+  "code": "gm",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "gambia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "gambia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/gambia_texture.png",
+  "github_icon": "forge/gambia_icon.png",
+  "save_path": "zain_flags/forge"
+}

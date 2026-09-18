@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_kitts_and_nevis",
+  "name": "Saint Kitts and Nevis",
+  "code": "kn",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "saint_kitts_and_nevis_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "saint_kitts_and_nevis_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/saint_kitts_and_nevis_texture.png",
+  "github_icon": "forge/saint_kitts_and_nevis_icon.png",
+  "save_path": "zain_flags/forge"
+}

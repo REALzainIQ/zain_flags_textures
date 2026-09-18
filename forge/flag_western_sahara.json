@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "western_sahara",
+  "name": "Western Sahara",
+  "code": "eh",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "western_sahara_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "western_sahara_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/western_sahara_texture.png",
+  "github_icon": "forge/western_sahara_icon.png",
+  "save_path": "zain_flags/forge"
+}

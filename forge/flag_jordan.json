@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "jordan",
+  "name": "Jordan",
+  "code": "jo",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "jordan_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "jordan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/jordan_texture.png",
+  "github_icon": "forge/jordan_icon.png",
+  "save_path": "zain_flags/forge"
+}

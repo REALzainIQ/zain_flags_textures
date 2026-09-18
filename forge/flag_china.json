@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "china",
+  "name": "China",
+  "code": "cn",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "china_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "china_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/china_texture.png",
+  "github_icon": "forge/china_icon.png",
+  "save_path": "zain_flags/forge"
+}

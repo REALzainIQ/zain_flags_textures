@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "latvia",
+  "name": "Latvia",
+  "code": "lv",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "latvia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "latvia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/latvia_texture.png",
+  "github_icon": "forge/latvia_icon.png",
+  "save_path": "zain_flags/forge"
+}

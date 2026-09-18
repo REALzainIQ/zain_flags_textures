@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "jersey",
+  "name": "Jersey",
+  "code": "je",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "jersey_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "jersey_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/jersey_texture.png",
+  "github_icon": "fabric/jersey_icon.png",
+  "save_path": "zain_flags/fabric"
+}

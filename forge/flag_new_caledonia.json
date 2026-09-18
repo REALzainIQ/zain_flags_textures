@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "new_caledonia",
+  "name": "New Caledonia",
+  "code": "nc",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "new_caledonia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "new_caledonia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/new_caledonia_texture.png",
+  "github_icon": "forge/new_caledonia_icon.png",
+  "save_path": "zain_flags/forge"
+}

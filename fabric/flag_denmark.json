@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "denmark",
+  "name": "Denmark",
+  "code": "dk",
+  "version": 1,
+  "aspect": 1.322314,
+  "texture": "denmark_texture.png",
+  "texture_size": [
+    128,
+    97
+  ],
+  "icon": "denmark_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/denmark_texture.png",
+  "github_icon": "fabric/denmark_icon.png",
+  "save_path": "zain_flags/fabric"
+}

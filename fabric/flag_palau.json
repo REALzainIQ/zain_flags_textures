@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "palau",
+  "name": "Palau",
+  "code": "pw",
+  "version": 1,
+  "aspect": 1.6,
+  "texture": "palau_texture.png",
+  "texture_size": [
+    128,
+    80
+  ],
+  "icon": "palau_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/palau_texture.png",
+  "github_icon": "fabric/palau_icon.png",
+  "save_path": "zain_flags/fabric"
+}

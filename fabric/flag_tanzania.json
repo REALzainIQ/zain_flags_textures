@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "tanzania",
+  "name": "Tanzania",
+  "code": "tz",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "tanzania_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "tanzania_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/tanzania_texture.png",
+  "github_icon": "fabric/tanzania_icon.png",
+  "save_path": "zain_flags/fabric"
+}

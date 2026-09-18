@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "ukraine",
+  "name": "Ukraine",
+  "code": "ua",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "ukraine_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "ukraine_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/ukraine_texture.png",
+  "github_icon": "forge/ukraine_icon.png",
+  "save_path": "zain_flags/forge"
+}

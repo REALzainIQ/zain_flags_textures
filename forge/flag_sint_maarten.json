@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "sint_maarten",
+  "name": "Sint Maarten",
+  "code": "sx",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "sint_maarten_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "sint_maarten_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/sint_maarten_texture.png",
+  "github_icon": "forge/sint_maarten_icon.png",
+  "save_path": "zain_flags/forge"
+}

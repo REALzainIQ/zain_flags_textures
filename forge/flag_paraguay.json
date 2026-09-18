@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "paraguay",
+  "name": "Paraguay",
+  "code": "py",
+  "version": 1,
+  "aspect": 1.818182,
+  "texture": "paraguay_texture.png",
+  "texture_size": [
+    128,
+    70
+  ],
+  "icon": "paraguay_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/paraguay_texture.png",
+  "github_icon": "forge/paraguay_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "taiwan",
+  "name": "Taiwan",
+  "code": "tw",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "taiwan_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "taiwan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/taiwan_texture.png",
+  "github_icon": "forge/taiwan_icon.png",
+  "save_path": "zain_flags/forge"
+}

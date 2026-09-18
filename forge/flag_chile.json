@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "chile",
+  "name": "Chile",
+  "code": "cl",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "chile_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "chile_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/chile_texture.png",
+  "github_icon": "forge/chile_icon.png",
+  "save_path": "zain_flags/forge"
+}

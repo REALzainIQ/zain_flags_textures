@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "kenya",
+  "name": "Kenya",
+  "code": "ke",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "kenya_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "kenya_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/kenya_texture.png",
+  "github_icon": "fabric/kenya_icon.png",
+  "save_path": "zain_flags/fabric"
+}

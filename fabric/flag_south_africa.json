@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "south_africa",
+  "name": "South Africa",
+  "code": "za",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "south_africa_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "south_africa_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/south_africa_texture.png",
+  "github_icon": "fabric/south_africa_icon.png",
+  "save_path": "zain_flags/fabric"
+}

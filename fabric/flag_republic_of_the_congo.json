@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "republic_of_the_congo",
+  "name": "Republic of the Congo",
+  "code": "cg",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "republic_of_the_congo_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "republic_of_the_congo_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/republic_of_the_congo_texture.png",
+  "github_icon": "fabric/republic_of_the_congo_icon.png",
+  "save_path": "zain_flags/fabric"
+}

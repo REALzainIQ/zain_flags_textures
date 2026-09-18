@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "burundi",
+  "name": "Burundi",
+  "code": "bi",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "burundi_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "burundi_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/burundi_texture.png",
+  "github_icon": "forge/burundi_icon.png",
+  "save_path": "zain_flags/forge"
+}

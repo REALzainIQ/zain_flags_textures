@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "central_african_republic",
+  "name": "Central African Republic",
+  "code": "cf",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "central_african_republic_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "central_african_republic_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/central_african_republic_texture.png",
+  "github_icon": "forge/central_african_republic_icon.png",
+  "save_path": "zain_flags/forge"
+}

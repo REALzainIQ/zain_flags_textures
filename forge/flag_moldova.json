@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "moldova",
+  "name": "Moldova",
+  "code": "md",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "moldova_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "moldova_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/moldova_texture.png",
+  "github_icon": "forge/moldova_icon.png",
+  "save_path": "zain_flags/forge"
+}

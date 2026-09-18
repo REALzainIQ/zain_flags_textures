@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "isle_of_man",
+  "name": "Isle of Man",
+  "code": "im",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "isle_of_man_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "isle_of_man_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/isle_of_man_texture.png",
+  "github_icon": "fabric/isle_of_man_icon.png",
+  "save_path": "zain_flags/fabric"
+}

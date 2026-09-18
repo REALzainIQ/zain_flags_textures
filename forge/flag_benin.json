@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "benin",
+  "name": "Benin",
+  "code": "bj",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "benin_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "benin_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/benin_texture.png",
+  "github_icon": "forge/benin_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "switzerland",
+  "name": "Switzerland",
+  "code": "ch",
+  "version": 1,
+  "aspect": 1.0,
+  "texture": "switzerland_texture.png",
+  "texture_size": [
+    128,
+    128
+  ],
+  "icon": "switzerland_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/switzerland_texture.png",
+  "github_icon": "fabric/switzerland_icon.png",
+  "save_path": "zain_flags/fabric"
+}

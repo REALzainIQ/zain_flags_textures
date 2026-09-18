@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "mauritania",
+  "name": "Mauritania",
+  "code": "mr",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "mauritania_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "mauritania_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/mauritania_texture.png",
+  "github_icon": "fabric/mauritania_icon.png",
+  "save_path": "zain_flags/fabric"
+}

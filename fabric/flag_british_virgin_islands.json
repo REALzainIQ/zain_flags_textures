@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "british_virgin_islands",
+  "name": "British Virgin Islands",
+  "code": "vg",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "british_virgin_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "british_virgin_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/british_virgin_islands_texture.png",
+  "github_icon": "fabric/british_virgin_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

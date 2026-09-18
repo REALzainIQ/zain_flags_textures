@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "cape_verde",
+  "name": "Cape Verde",
+  "code": "cv",
+  "version": 1,
+  "aspect": 1.702128,
+  "texture": "cape_verde_texture.png",
+  "texture_size": [
+    128,
+    75
+  ],
+  "icon": "cape_verde_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/cape_verde_texture.png",
+  "github_icon": "forge/cape_verde_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "micronesia",
+  "name": "Micronesia",
+  "code": "fm",
+  "version": 1,
+  "aspect": 1.89911,
+  "texture": "micronesia_texture.png",
+  "texture_size": [
+    128,
+    67
+  ],
+  "icon": "micronesia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/micronesia_texture.png",
+  "github_icon": "fabric/micronesia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

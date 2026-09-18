@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "botswana",
+  "name": "Botswana",
+  "code": "bw",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "botswana_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "botswana_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/botswana_texture.png",
+  "github_icon": "forge/botswana_icon.png",
+  "save_path": "zain_flags/forge"
+}

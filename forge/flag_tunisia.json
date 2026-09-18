@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "tunisia",
+  "name": "Tunisia",
+  "code": "tn",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "tunisia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "tunisia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/tunisia_texture.png",
+  "github_icon": "forge/tunisia_icon.png",
+  "save_path": "zain_flags/forge"
+}

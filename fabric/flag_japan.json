@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "japan",
+  "name": "Japan",
+  "code": "jp",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "japan_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "japan_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/japan_texture.png",
+  "github_icon": "fabric/japan_icon.png",
+  "save_path": "zain_flags/fabric"
+}

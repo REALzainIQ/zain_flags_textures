@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "kuwait",
+  "name": "Kuwait",
+  "code": "kw",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "kuwait_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "kuwait_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/kuwait_texture.png",
+  "github_icon": "fabric/kuwait_icon.png",
+  "save_path": "zain_flags/fabric"
+}

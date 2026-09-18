@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "san_marino",
+  "name": "San Marino",
+  "code": "sm",
+  "version": 1,
+  "aspect": 1.333333,
+  "texture": "san_marino_texture.png",
+  "texture_size": [
+    128,
+    96
+  ],
+  "icon": "san_marino_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/san_marino_texture.png",
+  "github_icon": "forge/san_marino_icon.png",
+  "save_path": "zain_flags/forge"
+}

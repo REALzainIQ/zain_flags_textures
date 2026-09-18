@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "peru",
+  "name": "Peru",
+  "code": "pe",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "peru_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "peru_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/peru_texture.png",
+  "github_icon": "fabric/peru_icon.png",
+  "save_path": "zain_flags/fabric"
+}

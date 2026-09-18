@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "thailand",
+  "name": "Thailand",
+  "code": "th",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "thailand_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "thailand_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/thailand_texture.png",
+  "github_icon": "fabric/thailand_icon.png",
+  "save_path": "zain_flags/fabric"
+}

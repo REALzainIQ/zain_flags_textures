@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "philippines",
+  "name": "Philippines",
+  "code": "ph",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "philippines_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "philippines_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/philippines_texture.png",
+  "github_icon": "fabric/philippines_icon.png",
+  "save_path": "zain_flags/fabric"
+}

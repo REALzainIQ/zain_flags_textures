@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "nicaragua",
+  "name": "Nicaragua",
+  "code": "ni",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "nicaragua_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "nicaragua_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/nicaragua_texture.png",
+  "github_icon": "fabric/nicaragua_icon.png",
+  "save_path": "zain_flags/fabric"
+}

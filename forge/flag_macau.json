@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "macau",
+  "name": "Macau",
+  "code": "mo",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "macau_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "macau_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/macau_texture.png",
+  "github_icon": "forge/macau_icon.png",
+  "save_path": "zain_flags/forge"
+}

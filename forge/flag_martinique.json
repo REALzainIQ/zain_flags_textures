@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "martinique",
+  "name": "Martinique",
+  "code": "mq",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "martinique_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "martinique_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/martinique_texture.png",
+  "github_icon": "forge/martinique_icon.png",
+  "save_path": "zain_flags/forge"
+}

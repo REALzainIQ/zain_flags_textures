@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "aruba",
+  "name": "Aruba",
+  "code": "aw",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "aruba_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "aruba_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/aruba_texture.png",
+  "github_icon": "fabric/aruba_icon.png",
+  "save_path": "zain_flags/fabric"
+}

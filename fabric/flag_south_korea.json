@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "south_korea",
+  "name": "South Korea",
+  "code": "kr",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "south_korea_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "south_korea_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/south_korea_texture.png",
+  "github_icon": "fabric/south_korea_icon.png",
+  "save_path": "zain_flags/fabric"
+}

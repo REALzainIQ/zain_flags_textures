@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "belarus",
+  "name": "Belarus",
+  "code": "by",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "belarus_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "belarus_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/belarus_texture.png",
+  "github_icon": "fabric/belarus_icon.png",
+  "save_path": "zain_flags/fabric"
+}

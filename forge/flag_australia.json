@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "australia",
+  "name": "Australia",
+  "code": "au",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "australia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "australia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/australia_texture.png",
+  "github_icon": "forge/australia_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "european_union",
+  "name": "European Union",
+  "code": "eu",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "european_union_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "european_union_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/european_union_texture.png",
+  "github_icon": "forge/european_union_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "saint_vincent_and_the_grenadines",
+  "name": "Saint Vincent and the Grenadines",
+  "code": "vc",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "saint_vincent_and_the_grenadines_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "saint_vincent_and_the_grenadines_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/saint_vincent_and_the_grenadines_texture.png",
+  "github_icon": "forge/saint_vincent_and_the_grenadines_icon.png",
+  "save_path": "zain_flags/forge"
+}

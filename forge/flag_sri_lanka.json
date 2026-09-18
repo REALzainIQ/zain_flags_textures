@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "sri_lanka",
+  "name": "Sri Lanka",
+  "code": "lk",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "sri_lanka_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "sri_lanka_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/sri_lanka_texture.png",
+  "github_icon": "forge/sri_lanka_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "uae",
+  "name": "United Arab Emirates",
+  "code": "ae",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "uae_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "uae_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/uae_texture.png",
+  "github_icon": "forge/uae_icon.png",
+  "save_path": "zain_flags/forge"
+}

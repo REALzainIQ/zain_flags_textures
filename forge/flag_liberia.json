@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "liberia",
+  "name": "Liberia",
+  "code": "lr",
+  "version": 1,
+  "aspect": 1.89911,
+  "texture": "liberia_texture.png",
+  "texture_size": [
+    128,
+    67
+  ],
+  "icon": "liberia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/liberia_texture.png",
+  "github_icon": "forge/liberia_icon.png",
+  "save_path": "zain_flags/forge"
+}

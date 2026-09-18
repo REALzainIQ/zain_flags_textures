@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "bolivia",
+  "name": "Bolivia",
+  "code": "bo",
+  "version": 1,
+  "aspect": 1.46789,
+  "texture": "bolivia_texture.png",
+  "texture_size": [
+    128,
+    87
+  ],
+  "icon": "bolivia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/bolivia_texture.png",
+  "github_icon": "fabric/bolivia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

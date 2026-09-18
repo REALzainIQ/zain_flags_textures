@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "guadeloupe",
+  "name": "Guadeloupe",
+  "code": "gp",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "guadeloupe_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "guadeloupe_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/guadeloupe_texture.png",
+  "github_icon": "fabric/guadeloupe_icon.png",
+  "save_path": "zain_flags/fabric"
+}

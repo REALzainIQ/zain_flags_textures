@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "spain",
+  "name": "Spain",
+  "code": "es",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "spain_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "spain_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/spain_texture.png",
+  "github_icon": "fabric/spain_icon.png",
+  "save_path": "zain_flags/fabric"
+}

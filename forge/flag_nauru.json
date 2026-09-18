@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "nauru",
+  "name": "Nauru",
+  "code": "nr",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "nauru_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "nauru_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/nauru_texture.png",
+  "github_icon": "forge/nauru_icon.png",
+  "save_path": "zain_flags/forge"
+}

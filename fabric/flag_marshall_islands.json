@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "marshall_islands",
+  "name": "Marshall Islands",
+  "code": "mh",
+  "version": 1,
+  "aspect": 1.89911,
+  "texture": "marshall_islands_texture.png",
+  "texture_size": [
+    128,
+    67
+  ],
+  "icon": "marshall_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/marshall_islands_texture.png",
+  "github_icon": "fabric/marshall_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

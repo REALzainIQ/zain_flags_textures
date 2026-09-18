@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "slovenia",
+  "name": "Slovenia",
+  "code": "si",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "slovenia_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "slovenia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/slovenia_texture.png",
+  "github_icon": "fabric/slovenia_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "mexico",
+  "name": "Mexico",
+  "code": "mx",
+  "version": 1,
+  "aspect": 1.748634,
+  "texture": "mexico_texture.png",
+  "texture_size": [
+    128,
+    73
+  ],
+  "icon": "mexico_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/mexico_texture.png",
+  "github_icon": "fabric/mexico_icon.png",
+  "save_path": "zain_flags/fabric"
+}

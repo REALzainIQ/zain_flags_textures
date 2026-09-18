@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "vatican_city",
+  "name": "Vatican City (Holy See)",
+  "code": "va",
+  "version": 1,
+  "aspect": 1.0,
+  "texture": "vatican_city_texture.png",
+  "texture_size": [
+    128,
+    128
+  ],
+  "icon": "vatican_city_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/vatican_city_texture.png",
+  "github_icon": "forge/vatican_city_icon.png",
+  "save_path": "zain_flags/forge"
+}

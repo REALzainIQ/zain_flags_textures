@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "ecuador",
+  "name": "Ecuador",
+  "code": "ec",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "ecuador_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "ecuador_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/ecuador_texture.png",
+  "github_icon": "forge/ecuador_icon.png",
+  "save_path": "zain_flags/forge"
+}

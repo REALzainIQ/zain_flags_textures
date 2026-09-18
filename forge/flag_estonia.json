@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "estonia",
+  "name": "Estonia",
+  "code": "ee",
+  "version": 1,
+  "aspect": 1.572482,
+  "texture": "estonia_texture.png",
+  "texture_size": [
+    128,
+    81
+  ],
+  "icon": "estonia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/estonia_texture.png",
+  "github_icon": "forge/estonia_icon.png",
+  "save_path": "zain_flags/forge"
+}

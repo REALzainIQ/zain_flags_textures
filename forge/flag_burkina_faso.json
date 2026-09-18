@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "burkina_faso",
+  "name": "Burkina Faso",
+  "code": "bf",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "burkina_faso_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "burkina_faso_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/burkina_faso_texture.png",
+  "github_icon": "forge/burkina_faso_icon.png",
+  "save_path": "zain_flags/forge"
+}

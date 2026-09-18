@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "montserrat",
+  "name": "Montserrat",
+  "code": "ms",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "montserrat_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "montserrat_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/montserrat_texture.png",
+  "github_icon": "forge/montserrat_icon.png",
+  "save_path": "zain_flags/forge"
+}

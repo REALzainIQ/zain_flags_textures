@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "haiti",
+  "name": "Haiti",
+  "code": "ht",
+  "version": 1,
+  "aspect": 1.666667,
+  "texture": "haiti_texture.png",
+  "texture_size": [
+    128,
+    77
+  ],
+  "icon": "haiti_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/haiti_texture.png",
+  "github_icon": "forge/haiti_icon.png",
+  "save_path": "zain_flags/forge"
+}

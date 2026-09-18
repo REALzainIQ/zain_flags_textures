@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "israel",
+  "name": "Israel",
+  "code": "il",
+  "version": 1,
+  "aspect": 1.376344,
+  "texture": "israel_texture.png",
+  "texture_size": [
+    128,
+    93
+  ],
+  "icon": "israel_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/israel_texture.png",
+  "github_icon": "forge/israel_icon.png",
+  "save_path": "zain_flags/forge"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "mauritius",
+  "name": "Mauritius",
+  "code": "mu",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "mauritius_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "mauritius_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/mauritius_texture.png",
+  "github_icon": "fabric/mauritius_icon.png",
+  "save_path": "zain_flags/fabric"
+}

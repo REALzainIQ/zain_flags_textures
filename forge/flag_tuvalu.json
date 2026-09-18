@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "tuvalu",
+  "name": "Tuvalu",
+  "code": "tv",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "tuvalu_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "tuvalu_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/tuvalu_texture.png",
+  "github_icon": "forge/tuvalu_icon.png",
+  "save_path": "zain_flags/forge"
+}

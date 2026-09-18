@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "iran",
+  "name": "Iran",
+  "code": "ir",
+  "version": 1,
+  "aspect": 1.748634,
+  "texture": "iran_texture.png",
+  "texture_size": [
+    128,
+    73
+  ],
+  "icon": "iran_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/iran_texture.png",
+  "github_icon": "fabric/iran_icon.png",
+  "save_path": "zain_flags/fabric"
+}

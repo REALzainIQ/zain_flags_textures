@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "hong_kong",
+  "name": "Hong Kong",
+  "code": "hk",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "hong_kong_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "hong_kong_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/hong_kong_texture.png",
+  "github_icon": "fabric/hong_kong_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "namibia",
+  "name": "Namibia",
+  "code": "na",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "namibia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "namibia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/namibia_texture.png",
+  "github_icon": "forge/namibia_icon.png",
+  "save_path": "zain_flags/forge"
+}

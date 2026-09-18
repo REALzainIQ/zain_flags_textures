@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "palestine",
+  "name": "Palestine",
+  "code": "ps",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "palestine_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "palestine_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/palestine_texture.png",
+  "github_icon": "fabric/palestine_icon.png",
+  "save_path": "zain_flags/fabric"
+}

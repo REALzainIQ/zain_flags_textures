@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "solomon_islands",
+  "name": "Solomon Islands",
+  "code": "sb",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "solomon_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "solomon_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/solomon_islands_texture.png",
+  "github_icon": "fabric/solomon_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

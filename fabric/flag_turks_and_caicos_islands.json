@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "turks_and_caicos_islands",
+  "name": "Turks and Caicos Islands",
+  "code": "tc",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "turks_and_caicos_islands_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "turks_and_caicos_islands_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/turks_and_caicos_islands_texture.png",
+  "github_icon": "fabric/turks_and_caicos_islands_icon.png",
+  "save_path": "zain_flags/fabric"
+}

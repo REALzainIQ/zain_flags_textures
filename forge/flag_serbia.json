@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "serbia",
+  "name": "Serbia",
+  "code": "rs",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "serbia_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "serbia_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "forge/serbia_texture.png",
+  "github_icon": "forge/serbia_icon.png",
+  "save_path": "zain_flags/forge"
+}

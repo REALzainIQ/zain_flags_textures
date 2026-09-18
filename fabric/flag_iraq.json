@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "iraq",
+  "name": "Iraq",
+  "code": "iq",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "iraq_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "iraq_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/iraq_texture.png",
+  "github_icon": "fabric/iraq_icon.png",
+  "save_path": "zain_flags/fabric"
+}

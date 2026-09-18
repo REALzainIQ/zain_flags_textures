@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "sao_tome_and_principe",
+  "name": "São Tomé and Príncipe",
+  "code": "st",
+  "version": 1,
+  "aspect": 2.0,
+  "texture": "sao_tome_and_principe_texture.png",
+  "texture_size": [
+    128,
+    64
+  ],
+  "icon": "sao_tome_and_principe_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/sao_tome_and_principe_texture.png",
+  "github_icon": "fabric/sao_tome_and_principe_icon.png",
+  "save_path": "zain_flags/fabric"
+}

@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "egypt",
+  "name": "Egypt",
+  "code": "eg",
+  "version": 1,
+  "aspect": 1.498829,
+  "texture": "egypt_texture.png",
+  "texture_size": [
+    128,
+    85
+  ],
+  "icon": "egypt_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/egypt_texture.png",
+  "github_icon": "fabric/egypt_icon.png",
+  "save_path": "zain_flags/fabric"
+}

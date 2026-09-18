@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "id": "norway",
+  "name": "Norway",
+  "code": "no",
+  "version": 1,
+  "aspect": 1.376344,
+  "texture": "norway_texture.png",
+  "texture_size": [
+    128,
+    93
+  ],
+  "icon": "norway_icon.png",
+  "icon_size": [
+    16,
+    16
+  ],
+  "github": "fabric/norway_texture.png",
+  "github_icon": "fabric/norway_icon.png",
+  "save_path": "zain_flags/fabric"
+}
